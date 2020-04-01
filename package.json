@@ -1,0 +1,19 @@
+{
+  "name": "xstore_template",
+  "version": "1.0.0",
+  "description": "example from developers.xstore.pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKapschitzki/xStore_Template.git"
+  },
+  "author": "PaulKapschitzki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulKapschitzki/xStore_Template/issues"
+  },
+  "homepage": "https://github.com/PaulKapschitzki/xStore_Template#readme"
+}
